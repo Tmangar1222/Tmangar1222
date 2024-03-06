@@ -1,17 +1,14 @@
 ![MasterHead](https://wallpaperaccess.com/full/8351153.gif)
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<h1 align="center">Hi, I'm Ileana Aguilar</h1>
+<h1 align="center">Hi, I'm Taruna Mangar</h1>
 <h3 align="center">Computer Science Student @ Queens College</h3> 
 
 <h3 align="left">About me:</h3>
 
-- CodePath Intermediate Web Development Student
-- Bloomberg Data Analysis Mentee 
-- Google Software Engineer Mentee
-- Project Basta Fellow
-- Girls Who Code Member
-- ColorStack Member
-- Rewriting the Code Member
+-  AWS Community Builder
+-  AWS All Builder Welcome Program Mentor 2022
+-  Girls Who Code Member
+-  Built By Girls Mentee
 - 👩🏻‍💻 Currently creating new projects
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,10 +1,12 @@
 ![MasterHead](https://wallpaperaccess.com/full/8351153.gif)
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![](https://media1.tenor.com/m/XBTLwxAxtk4AAAAd/studying-lofi-girl.gif)
 <h1 align="center">Hi, I'm Taruna Mangar</h1>
 <h3 align="center">Computer Science Student @ Queens College</h3> 
 
 <h3 align="left">About me:</h3>
 
+-  AWS Certified
+-  IBM Certified
 -  AWS Community Builder
 -  AWS All Builder Welcome Program Mentor 2022
 -  Girls Who Code Member

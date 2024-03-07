@@ -1,6 +1,10 @@
+
+
+
 <p align="center">
-    <img src="https://github.com/Tmangar1222/Tmangar1222/blob/main/assets/72161879/f1723bed-6e4b-4d7d-8a25-914fd007d91a.png" alt="MasterHead">
+    <img src="https://i0.wp.com/halcyonrealms.com/blogpics/japgifD.gif?resize=500%2C374&ssl=1" alt="MasterHead" width="700">
 </p>
+
 
 
 <h1 align="center">Hi, I'm Taruna Mangar</h1>

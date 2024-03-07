@@ -5,8 +5,8 @@
 
 <h3 align="left">About me:</h3>
 
--  AWS Certified
--  IBM Certified
+-  AWS Certified- Cloud Practioner
+-  IBM Certified- Cloud Core & Blockchain Essentials
 -  AWS Community Builder
 -  AWS All Builder Welcome Program Mentor 2022
 -  Girls Who Code Member

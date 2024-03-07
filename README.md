@@ -32,7 +32,7 @@
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ileana-a-141904140/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/taruna-mangar" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" />
@@ -40,7 +40,7 @@
         </picture>
     </a>
     <p1></p1>
-    <a href="mailto:ileana.aguilar1000@gmail.com" target="_blank" rel="noreferrer">
+    <a href="mailto:nmangar123@gmail.com" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" />
             <source media="(prefers-color-scheme: light)" srcset="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/message-circle-blue-1024.png" />

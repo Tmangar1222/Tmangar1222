@@ -1,5 +1,8 @@
-![MasterHead](https://media1.tenor.com/m/XBTLwxAxtk4AAAAd/studying-lofi-girl.gif)
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<p align="center">
+    <img src="https://github.com/Tmangar1222/Tmangar1222/blob/main/assets/72161879/f1723bed-6e4b-4d7d-8a25-914fd007d91a.png" alt="MasterHead">
+</p>
+
+
 <h1 align="center">Hi, I'm Taruna Mangar</h1>
 <h3 align="center">Computer Science Student @ Queens College</h3> 
 

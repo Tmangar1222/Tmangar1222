@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://i0.wp.com/halcyonrealms.com/blogpics/japgifD.gif?resize=500%2C374&ssl=1" alt="MasterHead" width="300">
+    <img src="https://i.imgur.com/ALrQfMc.gif" alt="MasterHead" width="800">
 </p>
 
 
